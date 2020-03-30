@@ -15,7 +15,7 @@
     "flyd-forwardto": "^0.0.1",
     "ramda": "^0.14.0",
     "snabbdom": "^0.1.0",
-    "flyd": "^0.1.4",
+    "flyd": "^0.2.8",
     "union-type": "^0.1.0"
   }
 }
